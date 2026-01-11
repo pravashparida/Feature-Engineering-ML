@@ -2,7 +2,7 @@
 
 ## Overview
 Feature engineering is one of the most critical steps in building high-performing machine learning models.  
-This repository provides a **comprehensive, hands-on implementation of feature engineering techniques** commonly used in real-world ML and data science projects.
+This repository showcases **end-to-end Exploratory Data Analysis (EDA) and Feature Engineering (FE)** workflows using real-world datasets.  
 
 The notebooks demonstrate **practical preprocessing workflows**, focusing on data quality, statistical correctness, and model readiness.
 
@@ -74,10 +74,31 @@ The notebooks demonstrate **practical preprocessing workflows**, focusing on dat
 
 ---
 
+### 🔹 Case Studies
+
+#### 📈 Flight Price Prediction
+- Data Cleaning & Preprocessing
+- Feature Encoding & Transformation
+- Outlier Treatment
+- Feature Engineering for price prediction
+- Visualization & trend analysis
+- Insights influencing airfare pricing
+
+#### 📱 Google Play Store – EDA & Feature Engineering
+- Data Cleaning & Missing Value Handling
+- Category-wise and rating-based analysis
+- Encoding categorical variables
+- Feature scaling and transformation
+- Visualization of installs, reviews, ratings
+- Business insights for app performance
+
+---
+
 ## 📊 Tools & Libraries Used
 - Python
 - Pandas
 - NumPy
+- Matplotlib, Seaborn
 - Scikit-learn
 - Imbalanced-learn (SMOTE)
 
